@@ -35,7 +35,7 @@ int main()
     }
 
     int output = (int)((result+16384)>>15);
-    //aktualizacja indeksu bufora kolowego
+        
     idx +=1;
     if(idx>=N)
     {
